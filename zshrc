@@ -1,5 +1,5 @@
 ####Doc Vincents zsh config
-
+###
 export PATH=/usr/local/bin:/usr/bin:/bin:/sbin:/usr/local/sbin:/usr/sbin:/Users/minguez/usr/bin:
 
 export HISTSIZE=50
